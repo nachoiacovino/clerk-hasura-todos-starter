@@ -23,7 +23,6 @@ const SignupLink = () => (
 const SeeTodos = () => (
   <Link href='/todos'>
     <a className={styles.cardContent}>
-      {/* <img src='/icons/user-plus.svg' /> */}
       <PencilAltIcon className='text-blue-500 h-7 w-7' />
       <div>
         <h3>Start saving your todos!</h3>
