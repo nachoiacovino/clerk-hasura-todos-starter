@@ -112,7 +112,7 @@ const Footer = () => (
 const Home = () => (
   <div className={styles.container}>
     <Head>
-      <title>Create Next App</title>
+      <title>Fullstack Todos</title>
       <link rel='icon' href='/favicon.ico' />
       <meta
         name='viewport'
